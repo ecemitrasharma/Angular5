@@ -1,0 +1,7 @@
+E:\Angular5\ServiceLayer\ServiceLayer\bin\Debug\ServiceLayer.exe.config
+E:\Angular5\ServiceLayer\ServiceLayer\bin\Debug\ServiceLayer.exe
+E:\Angular5\ServiceLayer\ServiceLayer\bin\Debug\ServiceLayer.pdb
+E:\Angular5\ServiceLayer\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Angular5\ServiceLayer\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Angular5\ServiceLayer\ServiceLayer\obj\Debug\ServiceLayer.exe
+E:\Angular5\ServiceLayer\ServiceLayer\obj\Debug\ServiceLayer.pdb
